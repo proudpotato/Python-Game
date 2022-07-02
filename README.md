@@ -3,9 +3,7 @@
 1. **參考資料**
     1. Pygame Page: http://pygame.org
     2. documentation: http://pygame.org/docs/ref/
-    3. Icon Archive: 
-    4. Leshy SFMaker:
-    5. ~~XXX忘記了~~<br><br>
+    3. ~~XXX忘記了~~<br><br>
 ------
 
 **_2. What is Pygame_**:
@@ -14,7 +12,7 @@
   * Pygame偵測使用者使用Keyboard, joystick, mouse控制遊戲
   * Pygame提供許多內建的game objects來製作遊戲<br><br>
 
-**_3. PYGame Basics_**:
+**_3. PYGame Basic Codes_**:
 | Code | Description |
 |:-----:|:----------:|
 |_1.py_ | Create my game surfaces, game loop and drawing.|
@@ -36,3 +34,6 @@ player_rect = player_image.get_rect()
 player_rect.center = (WINDOW_WIDTH//2, WINDOW_HEIGHT-32)
 displayscreen.blit(player_image, player_rect)
 ```
+**_5. Game Assets:_**
+    * .[Icon Archive:].(https://iconarchive.com/) 網站提供很多遊戲角色下載
+    * .[Leshy SFMaker:].(https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效，也可以簡單自己自做音效
