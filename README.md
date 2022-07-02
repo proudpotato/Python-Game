@@ -38,4 +38,4 @@ displayscreen.blit(player_image, player_rect)
 [Icon Archive:](https://iconarchive.com/) 網站提供很多遊戲角色下載 <br>
 [Leshy SFMaker:](https://www.leshylabs.com/apps/sfMaker/) 網站可以下載遊戲特效，也可以簡單自己自做音效
 
-![遊戲截圖:](https://github.com/proudpotato/Python-basics/blob/main/1.png)
+<img src="https://github.com/proudpotato/Python-basics/blob/main/1.png" width = "400" height = "300" alt = "2.py遊戲截圖"><br>
