@@ -1,8 +1,8 @@
-# PYTHON GAMES
-### my product
-  
-* Pygame Page: http://pygame.org
-* documentation: http://pygame.org/docs/ref/
+# PYTHON GAMES: my product
+
+1. **參考資料**
+    1.Pygame Page: http://pygame.org
+    2.documentation: http://pygame.org/docs/ref/
 ------
 
 * What is Pygame:
