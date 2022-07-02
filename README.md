@@ -1,8 +1,10 @@
 # PYTHON GAMES: my product
 
 1. **參考資料**
-   * Pygame Page: http://pygame.org
-   * documentation: http://pygame.org/docs/ref/
+    1. Pygame Page: http://pygame.org
+    2. documentation: http://pygame.org/docs/ref/
+    3. Icon Archive: 
+    4. Leshy SFMaker:
 ------
 
 * What is Pygame:
